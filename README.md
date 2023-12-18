@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://giphy.com/gifs/blue-screen-gU25raLP4pUu4"/>
+  <img src="[https://giphy.com/gifs/blue-screen-gU25raLP4pUu4](http://charlotte-me.tumblr.com/post/75509694150)"/>
 </p>>
 
 
