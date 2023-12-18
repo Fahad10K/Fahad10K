@@ -1,10 +1,14 @@
 
 <p align="center">
-  <img src="[https://giphy.com/gifs/blue-screen-gU25raLP4pUu4](http://charlotte-me.tumblr.com/post/75509694150)"/>
-</p>>
+  <img src="https://media3.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif?cid=ecf05e47ssjn4ji681wuk654jblxgdif9vot22dunziegx3q&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+</p>
 
-
-### Hi there 👋
+<h1 align="center"> Hi !! I am Fahad Khan 👋</h1>
+<h3 align="center"> A Machine Learning Engineer in the making ...</h3>
+<br>
+<img align="left"  width="320" src="https://64.media.tumblr.com/e92cc34caca8b85f2b1c0f7b53ee68ae/tumblr_mnmyzotd8o1sqo4boo6_250.gif">
+<img align="center"  width="320" src="https://64.media.tumblr.com/cf87668f1394f62a25dde8c6a52d64fc/tumblr_n8z4jjABDx1rylr5to1_500.gif">
+<img align="right"  width="320" src="https://64.media.tumblr.com/8f4d777905f336dc8219a7db240f2389/8d04f8891e33b3a3-78/s400x600/f7bdaf07b56c74de91c98ccd2a152a51644e7da4.gif">
 
 <!--
 **Fahad10K/Fahad10K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,5 +24,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
