@@ -16,7 +16,9 @@
 <br>
 
 <img align="right" width=400 height=300 src="https://media3.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif?cid=ecf05e47ssjn4ji681wuk654jblxgdif9vot22dunziegx3q&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
-<br>
+
+<h4>"Life is a Symphony of Struggles induced with hardwork, heartbreaks and love" :</h4>
+
 
 - 🎓 I'm pursuing my Specialization in **Artificial Intelligence and Machine Learning**
 - 🔭 I’m currently working on LLMs and Transformer
@@ -41,5 +43,8 @@
 
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Fahad10K&show_icons=true&theme=radical" alt="Fahad10K" /></p>
 <br>
+
+<h4 align="center">My Introduction Ends Here</h4>
 <p align="center" ><img width =400 height=300  src="https://github.com/raghavk16/raghavk16/raw/master/octo.gif" alt="rock" /></p>
 
+<h3 align="center">See You Around !</h3>
