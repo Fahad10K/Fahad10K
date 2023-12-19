@@ -40,9 +40,7 @@
 <p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Fahad10K&show_icons=true&theme=radical&show_icons=true&locale=en" alt="Fahad10K" /></p>
 
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Fahad10K&show_icons=true&theme=radical" alt="Fahad10K" /></p>
-![Snake animation](https://github.com/Fahad10K/Fahad10K/blob/output/github-contribution-grid-snake.svg)
-
 <br>
 <p align="center" ><img width =400 height=300  src="https://github.com/raghavk16/raghavk16/raw/master/octo.gif" alt="rock" /></p>
 
-
+![Snake animation](https://github.com/Fahad10K/Fahad10K/blob/output/github-contribution-grid-snake.svg)
