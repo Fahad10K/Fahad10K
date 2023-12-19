@@ -13,7 +13,7 @@
 <img align = "right" src="https://64.media.tumblr.com/cf87668f1394f62a25dde8c6a52d64fc/tumblr_n8z4jjABDx1rylr5to1_500.gif" alt="Image" width="400" height="200">
 </div>
 <h6 align="LEFT">X---- What Non-Programmers Think Machine Learning Looks Like ------------------ VS -------------------------------- What it Actually Looks Like ----------------------X</h6>
-
+<br>
 
 <img align="right" width=400 height=300 src="https://media3.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif?cid=ecf05e47ssjn4ji681wuk654jblxgdif9vot22dunziegx3q&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 <br>
@@ -40,7 +40,9 @@
 <p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Fahad10K&show_icons=true&theme=radical&show_icons=true&locale=en" alt="Fahad10K" /></p>
 
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Fahad10K&show_icons=true&theme=radical" alt="Fahad10K" /></p>
+
+
 <br>
-<p align="center"><img width =1000 height=50 style="transform: rotate(90deg);" src="https://media4.giphy.com/media/Xq77wv1oznt84qgsML/200w.webp?cid=ecf05e479tkjyvxgmpsk0mlq3jtq8lkdveg3i8umv95ts2z6&ep=v1_gifs_search&rid=200w.webp&ct=g" alt="rock" /></p>
+<p align="center" ><img width =400 height=300  src="https://github.com/raghavk16/raghavk16/raw/master/octo.gif" alt="rock" /></p>
 
 
