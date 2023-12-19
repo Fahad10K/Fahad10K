@@ -43,4 +43,3 @@
 <br>
 <p align="center" ><img width =400 height=300  src="https://github.com/raghavk16/raghavk16/raw/master/octo.gif" alt="rock" /></p>
 
-![Snake animation](https://github.com/Fahad10K/Fahad10K/blob/output/github-contribution-grid-snake.svg)
