@@ -6,9 +6,9 @@
 <h1 align="center"> Hi !! I am Fahad Khan 👋</h1>
 <h3 align="center"> A Machine Learning Engineer in the making ...</h3>
 <br>
-<img align="left"  width="320" src="https://64.media.tumblr.com/e92cc34caca8b85f2b1c0f7b53ee68ae/tumblr_mnmyzotd8o1sqo4boo6_250.gif">
-<img align="center"  width="320" src="https://64.media.tumblr.com/cf87668f1394f62a25dde8c6a52d64fc/tumblr_n8z4jjABDx1rylr5to1_500.gif">
-<img align="right"  width="320" src="https://64.media.tumblr.com/8f4d777905f336dc8219a7db240f2389/8d04f8891e33b3a3-78/s400x600/f7bdaf07b56c74de91c98ccd2a152a51644e7da4.gif">
+<img align="left"  width="200" src="https://64.media.tumblr.com/e92cc34caca8b85f2b1c0f7b53ee68ae/tumblr_mnmyzotd8o1sqo4boo6_250.gif">
+<img align="center"  width="200" src="https://64.media.tumblr.com/cf87668f1394f62a25dde8c6a52d64fc/tumblr_n8z4jjABDx1rylr5to1_500.gif">
+<img align="right"  width="200" src="https://64.media.tumblr.com/8f4d777905f336dc8219a7db240f2389/8d04f8891e33b3a3-78/s400x600/f7bdaf07b56c74de91c98ccd2a152a51644e7da4.gif">
 
 <!--
 **Fahad10K/Fahad10K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
