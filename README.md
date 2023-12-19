@@ -1,3 +1,5 @@
+
+
 <p align="center">
 
 <img width="1000" src="https://media1.giphy.com/media/4knozU8q9AXvpod9qy/giphy.gif?cid=ecf05e475za19x8qrvs5dcaxdb6gsdvgcoyt07s32fcr4fpk&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
@@ -12,11 +14,8 @@
 </div>
 <h6 align="LEFT">X---- What Non-Programmers Think Machine Learning Looks Like ------------------ VS -------------------------------- What it Actually Looks Like ----------------------X</h6>
 
-<br>
-<br>
-<br>
 
-<img align="right" src="https://media3.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif?cid=ecf05e47ssjn4ji681wuk654jblxgdif9vot22dunziegx3q&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+<img align="right" width=400 height=300 src="https://media3.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif?cid=ecf05e47ssjn4ji681wuk654jblxgdif9vot22dunziegx3q&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 <br>
 
 - 🎓 I'm pursuing my Specialization in **Artificial Intelligence and Machine Learning**
@@ -25,7 +24,7 @@
 - 👯 I’m looking to collaborate on Neural Network Models
 - 💬 Ask me about C++, Python, Machine Learning, Deep Neural Networks and Data Structures
 - 📫 How to reach me: **khan.fahad855@gmail.com**
-- ⚡ I am an engineer who can do art, compose poems, play football, holds a black belt in Taekwondo and am a Gym Rat + fitness freak ...
+- ⚡ I am an engineer who can do art, compose poems, play football, holds a black belt in Taekwondo and am a Gym Rat + Fitness Freak
 <h2 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/fahad-khan-1312338b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mudit sharma" height="30" width="40" /></a>
@@ -42,6 +41,6 @@
 
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Fahad10K&show_icons=true&theme=radical" alt="Fahad10K" /></p>
 <br>
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Fahad10K&show_icons=true&theme=radical" alt="Fahad10K" /></p>
+<p align="center"><img width =1000 height=50 style="transform: rotate(90deg);" src="https://media4.giphy.com/media/Xq77wv1oznt84qgsML/200w.webp?cid=ecf05e479tkjyvxgmpsk0mlq3jtq8lkdveg3i8umv95ts2z6&ep=v1_gifs_search&rid=200w.webp&ct=g" alt="rock" /></p>
 
 
