@@ -20,7 +20,7 @@
 <h4>"Life is a Symphony of Struggles induced with hardwork, heartbreaks and love" :</h4>
 
 
-- 🎓 I'm pursuing my Specialization in **Artificial Intelligence and Machine Learning**
+- 🎓 I am B.Tech holder in Computer Science Engineering with a Specialization in **Artificial Intelligence and Machine Learning**
 - 🔭 I’m currently working on LLMs and Transformer
 - 🌱 I’m currently learning Machine Learning and Deep Learning in greater details
 - 👯 I’m looking to collaborate on Neural Network Models
